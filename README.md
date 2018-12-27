@@ -1,3 +1,5 @@
+![sample](Resource/sample.png)
+
 # 特性
 
 1. 支持自定义返回图片和屏幕边缘的间距
